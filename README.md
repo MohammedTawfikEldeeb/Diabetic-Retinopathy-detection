@@ -11,7 +11,7 @@ This project focuses on detecting **Diabetic Retinopathy (DR)** using **Deep Lea
 - **Deployment Ready**: Can be integrated into a **Streamlit app** for easy real-world use.
 
 ## 📂 Dataset
-The dataset consists of **retinal fundus images** labeled according to the severity of DR. It is sourced from **[Kaggle's Diabetic Retinopathy Dataset](https://www.kaggle.com/c/diabetic-retinopathy-detection)**.
+The dataset consists of **retinal fundus images** labeled according to the severity of DR. It is sourced from **[Kaggle's Diabetic Retinopathy Dataset](https://www.kaggle.com/datasets/anikbhowmickae20b102/binary-classification-data-aptos-and-messidor)**.
 
 ## 🚀 Tech Stack
 - **Python**
